@@ -1,0 +1,19 @@
+Privacy Policy for n8n-blicki
+
+Last updated: 23 June 2025
+
+This application accesses your Gmail account solely for the purpose of automating email processing and notifications with n8n.
+
+Data Collection and Use:
+- We access only the Gmail data necessary for the application's functionality
+- No personal data is stored permanently on external servers
+- Data is processed locally through your n8n instance
+- No data is shared with third parties
+
+Data Security:
+- All data transmission uses secure protocols
+- Access is limited to the authenticated user only
+- No data is retained beyond what's necessary for operation
+
+Contact:
+For questions about this privacy policy, contact: stevendeblick@gmail.com
